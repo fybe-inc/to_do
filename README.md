@@ -8,4 +8,8 @@
 - `vc_research_materials/`: VCリストとミーティング準備資料
   - `japanese_vc_list.csv`: 日本のVCリスト（投資ステージ、投資額範囲、重点分野など）
   - `vc_meeting_preparation.md`: VCミーティングの準備と重要ポイントについての詳細ガイド
+- `graduate_research/`: 大手IT企業の新卒採用推移（2020年〜）の調査資料
+  - `graduate_hiring_trends.csv`: 企業別新卒採用数の推移データ
+  - `graduate_hiring_overview.md`: 採用動向の分析、調査手法、データソースの説明
+  - `data_collection_summary.md`: データ収集プロセスの詳細レポート
 
