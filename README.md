@@ -14,4 +14,6 @@
   - `graduate_hiring_trends.csv`: 企業別新卒採用数の推移データ
   - `graduate_hiring_overview.md`: 採用動向の分析、調査手法、データソースの説明
   - `data_collection_summary.md`: データ収集プロセスの詳細レポート
+- `ai_agent_research/`: AIエージェントに関する最新のX投稿調査（2025年1月）
+  - `ai_agent_summaries.md`: 300以上のいいねを獲得したAIエージェント関連の投稿まとめ（ツール紹介、ノウハウ、実践的情報）
 
